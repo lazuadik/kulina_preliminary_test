@@ -1,0 +1,13 @@
+Business Recommendation For Kulina Based on Data:
+
+1. Strategi Loyalitas
+Dari visualisasi Boxplot menunjukkan bahwa semakin kanan, maka titik data semakin sedikit. Ini menunjukkan para pencilan (outliers) dari user kulina yang telah order dengan kuantitas yang sangat besar (max: 4058). Kelompok tersebut bisa dikatakan sebagai Pelanggan Bernilai Tinggi.
+
+Rekomendasi:
+Strategi yang tepat untuk membuat Pelanggan Bernilai Tinggi ini tetap order di Kulina, yaitu membuat program Account Management khusus untuk pelanggan yang membeli dengan kuantitas lebih dari 100 (karena dari data ditunjukkan 75% user hanya akan membeli sampai 23 unit) sepanjang tahun tersebut. Dari data tersebut bisa disimpulkan jika kita kehilangan satu (1) Pelanggan Bernilai Tinggi ini berdampak setara dengan kehilangan ratusan pelanggan biasa.
+
+2. Aktivasi Pelanggan Median
+Dari hasil analisis statistika deskriptif, dapat dilihat bahwa 50% user masih order dengan kuantitas maksimal 8 unit. Dari temuan tersebut bisa kita kembangkan pendekatan yang lebih baik ke segmen tersebut.
+
+Rekomendasi:
+Strategi pendekatan yang dapat meningkatkan ketertarikan user, yaitu diberikan promo "Gratis Ongkir", "Voucher Cashback", atau "Voucher Diskon" hanya untuk pembelian minimal 10 atau 12 unit untuk menggeser distribusi ke arah kanan.
