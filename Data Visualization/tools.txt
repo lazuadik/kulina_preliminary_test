@@ -1,0 +1,12 @@
+Project Tools & Environment:
+
+1. Data Analysis & Visualization:
+   - Language: Python 3.12 (Google Colab)
+   - Libraries: 
+     * pandas (Data Manipulation)
+     * numpy (Numerical Processing)
+     * seaborn & matplotlib (Heatmap & Distribution Visualization)
+ 
+2. Methodology:
+   - Metrics: Retention Rate (%)
+   - Definition: Unbounded Retention (Monthly Period)

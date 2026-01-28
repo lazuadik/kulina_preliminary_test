@@ -1,0 +1,29 @@
+Business Recommendation For Kulina Based on Data:
+
+Dari Cohort Retention Analysis yang telah dilakukan, Kulina memiliki 60% pelanggan churn setelah pembelian pertama mereka. Retention rate kemudian stabil di angka 10-11% di bulan ke-8 dan setelahnya.
+
+Terdapat beberapa rekomendasi yang difokuskan pada peningkatan retention 30 hari pertama, replikasi strategi cohort yang sukses, dan pembangunan program loyalitas untuk segmen pelanggan yang bertahan dalam jangka panjang.
+
+1. Program Retensi 30 Hari Pertama
+
+Dari visualisasi heatmap, penurunan terbesar terjadi pada periode transmisi antara Bulan 0 ke Bulan 1 (rata-rata churn 60%). Oleh karena itu, Kulina perlu melakukan intervensi pada 30 hari pertama untuk membentuk kebiasaan pelanggan dengan cara:
+
+- Sistem Reminder Proaktif:
+Kulina dapat mengaktifkan push notification ataupun pesan melalui WhatsApp sebagai pengingat pemesanan sebelum batas Waktu (dengan konteks H-1) berakhir. 
+
+- Insentif Feedback & Rating:
+Kulina juga dapat memberikan pesan kepada pelanggan berupa dorongan kepada pelanggan untuk memberikan rating dan ulasan setelah pemesanan pertama. Pemberian ulasan dan rating juga dapat diberikan imbalan berupa voucher sebesar 10-15% yang dapat digunakan dalam 30 hari ke depan agar pelanggan didorong untuk membeli lagi melalui Kulina. Rating dan ulasan tersebut juga dapat dijadikan evaluasi untuk tim kulina tentang experience dari pelanggan.
+
+- Personalisasi Akun & Rekomendasi:
+Kulina perlu melakukan personalisasi terhadap setiap pelanggan agar pelanggan dapat mencari dan memesan catering/makanan dengan hal yang mereka sukai.
+
+- Program 30-days Milestone:
+Kulina dapat menambahkan program milestone seperti berhasil menyelesaikan 5 pesanan dalam satu bulan pertama agar kedepannya pelanggan tetap terdorong untuk menggunakan Kulina.
+
+2. Replikasi Strategi
+
+Dari hasil analisis dapat disimpulkan bahwa Cohort Januari memiliki retention terbaik dalam jangka panjang yang stabil dibandingkan bulan lainnya. Hal ini dapat diperhatikan bagaimana strategi di bulan Januari ini dapat diaplikasikan kepada cohort di bulan lainnya. 
+
+3. Program Loyalitas Segmen Pelanggan Setia
+
+Pada bulan ke-8 hingga seterusnya, kita dapat melihat retention rate di bulan januari cenderung stabil di angka 10-11%. Hal ini menandakan bahwa ada 1 dari 10 pelanggan yang setia kepada Kulina. Hal tersebut perlu diapresiasi oleh Tim Kulina agar Pelanggan Setia tetap bertahan. Maka dari itu, Kulina dapat mempertimbangkan untuk membuat program VIP/Subscription yang memberikan manfaat eksklusif terhadap Pelanggan Setia, seperti gratis ongkir ataupun voucher diskon.
