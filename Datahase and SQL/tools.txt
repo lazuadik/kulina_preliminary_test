@@ -5,14 +5,5 @@ Project Tools & Environment:
    - Client: DBeaver
    - ERD Design: DBeaver ERD Tool
 
-2. Data Analysis (Python):
-   - Environment: Google Colab
-   - Language: Python 3.12
-   - Libraries: 
-     * pandas (Data Manipulation)
-     * numpy (Numerical Processing)
-     * matplotlib & seaborn (Data Visualization)
-
-3. Key Analytical Tasks:
+2. Key Analytical Tasks:
    - SQL Querying: Successful delivery history, Best-selling products, New user purchase (CTE)
-   - Python Analysis: Descriptive statistics (Skewness & Kurtosis), Probability Distribution Identification
