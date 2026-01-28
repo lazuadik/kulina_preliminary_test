@@ -1,11 +1,6 @@
 Project Tools & Environment:
 
-1. Database Design & Management:
-   - DBMS: PostgreSQL
-   - Client: DBeaver
-   - ERD Design: DBeaver ERD Tool
-
-2. Data Analysis (Python):
+1. Data Analysis (Python):
    - Environment: Google Colab
    - Language: Python 3.12
    - Libraries: 
@@ -13,6 +8,5 @@ Project Tools & Environment:
      * numpy (Numerical Processing)
      * matplotlib & seaborn (Data Visualization)
 
-3. Key Analytical Tasks:
-   - SQL Querying: Successful delivery history, Best-selling products, New user purchase (CTE)
-   - Python Analysis: Descriptive statistics (Skewness & Kurtosis), Probability Distribution Identification
+2. Key Analytical Tasks:
+    - Python Analysis: Descriptive statistics (Skewness & Kurtosis), Probability Distribution Identification
